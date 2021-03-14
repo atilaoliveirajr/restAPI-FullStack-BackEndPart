@@ -1,12 +1,12 @@
 package com.devAtilaOliveira.restAPISpringBoot;
 
-import org.junit.jupiter.api.Test;
+
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class RestApiFullStackApplicationTests {
 
-	@Test
+	@org.junit.jupiter.api.Test
 	void contextLoads() {
 	}
 
